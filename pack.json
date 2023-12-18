@@ -1,0 +1,10 @@
+{
+  "name": "Resident Evil 7 Musicbox- PS Theme",
+  "description": "PS4 Theme featuring the Go Tell Aunt Rhody theme in eerie musicbox format"
+  "author": "Lord Basado",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
